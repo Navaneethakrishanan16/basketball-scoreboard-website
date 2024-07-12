@@ -13,7 +13,7 @@ function twoh(){
 }
 function threeh(){
     counth+=3
-    scoreH.textContent=counthg
+    scoreH.textContent=counth
 }
 function oneg(){
     countg+=1
